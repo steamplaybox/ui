@@ -1,0 +1,23 @@
+.pb--search {
+  &-box {
+  }
+  &-bar {
+    background: 0 0;
+    font-size: 16px;
+    color: #fff;
+    border: 0;
+    padding: 0 32px;
+    display: none;
+    z-index: 1;
+    position: absolute;
+    width: 100%;
+    top: 100%;
+    margin-top: -1px;
+    border-bottom-left-radius: 2.5px;
+    border-bottom-right-radius: 2.5px;
+    overflow: hidden;
+    word-break: break-all;
+    margin: 0;
+    list-style: none;
+  }
+}

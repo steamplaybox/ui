@@ -9,9 +9,17 @@
   "author": "Matas Bartosevicius",
   "license": "ISC",
   "dependencies": {
+    "autoprefixer": "^9.4.6",
+    "babel-polyfill": "^6.26.0",
     "install": "^0.12.2",
+    "node-sass": "^4.11.0",
+    "postcss-loader": "^3.0.0",
     "react": "^16.7.0",
-    "react-dom": "^16.7.0"
+    "react-dom": "^16.7.0",
+    "react-redux": "^6.0.0",
+    "react-router-dom": "^4.3.1",
+    "redux": "^4.0.1",
+    "sass-loader": "^7.1.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
